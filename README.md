@@ -30,3 +30,8 @@ hunting and prey mostly on large ungulates, including antelope, deer, buffalo, z
         <td> characteristics</td>
         <td>Behavior</td>
     </tr>
+<tr>
+  <td>The lion is a muscular, deep-chested cat with a short,
+    rounded head, a reduced neck and round ears </td>
+  <td>Lions spend much of their time resting, and are
+    inactive for about 20 hours per day.</td>
