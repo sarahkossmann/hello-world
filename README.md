@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <b><h1> The domestic cat </h1></b>
-  <body> Click here for more information about the <u><a href= "https//:www.google.com" > the lions. </a></u> </body>
+  <body> Click here for more information about the <u><a href= "#top"> the lions. </a></u> </body>
   <h2><br> <b> About domestic cats </b></br> </h2>
 <p>They are often called <i>house cats</i> when kept as indoor pets or simply cats when there is no need to distinguish
     them from other felids and felines. They are often valued by humans for <b> companionship.</b></p>
@@ -18,7 +18,7 @@ Neolithic from around 9,500 years ago (7500 BC).
   <br> II.Tigers</br>
   <br> III.Cougars</br></p>
 <h2> Media</h2>
-<h1> The Lions</h1>
+<h1 id="top">The Lions</h1>
 <p>Present in Africa and India, the lion typically inhabits grasslands and savannahs, but is absent in dense forests.
 It is usually more diurnal than other big cats, but when persecuted adapts to being active at night and at
 twilight. A lion pride consists of a few adult males, related females and cubs. Prides vary in size and
@@ -27,7 +27,7 @@ hunting and prey mostly on large ungulates, including antelope, deer, buffalo, z
 <table>
   <th>The difference between Characteristics and Behavior</th>
     <tr>
-        <td> characteristics</td>
+        <td> Characteristics</td>
         <td>Behavior</td>
     </tr>
 <tr>
