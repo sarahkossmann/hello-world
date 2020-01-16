@@ -24,3 +24,16 @@ It is usually more diurnal than other big cats, but when persecuted adapts to be
 twilight. A lion pride consists of a few adult males, related females and cubs. Prides vary in size and
 composition from three to 20 adult lions, depending on habitat and prey availability. Females cooperate when
 hunting and prey mostly on large ungulates, including antelope, deer, buffalo, zebra and even giraffe.</p>
+<table>
+  <th>The difference between Characteristics and Behavior</th>
+  <table>
+    <tr>
+        <th>Table Header 1</th>
+        <th>Table Header 2</th>
+        <th>Table Header 3</th>
+    </tr>
+    <tr>
+        <td>Input 1 under header 1</td>
+        <td>Input 1 under header 2</td>
+        <td>Input 1 under header 3</td>
+    </tr>
