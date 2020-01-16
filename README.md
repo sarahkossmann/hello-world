@@ -16,9 +16,11 @@
   <p>Cats were venerated in ancient Egypt, but there may have been instances of domestication as early as the
 Neolithic from around 9,500 years ago (7500 BC). 
   <br>Did you know that, The felids are a rapidly evolving family of mammals that includes:</br>
-  <br> I.Lions</br>
-  <br> II.Tigers</br>
-  <br> III.Cougars</br></p>
+  <ol>
+  <li>Lions</li>
+  <li>Tigers</li>
+  <li>Cougars</il>
+  </ol>
 <h2> Media</h2>
 <img src="https://thumbs-prod.si-cdn.com/FfPjZYS33IDPV7CIe6TxkP6hBLo=/800x600/filters:no_upscale()/https://public-media.smithsonianmag.com/filer/cat-with-yarn631.jpg">
 <h1> The Lions</h1>  
