@@ -26,14 +26,7 @@ composition from three to 20 adult lions, depending on habitat and prey availabi
 hunting and prey mostly on large ungulates, including antelope, deer, buffalo, zebra and even giraffe.</p>
 <table>
   <th>The difference between Characteristics and Behavior</th>
-  <table>
     <tr>
-        <th>Table Header 1</th>
-        <th>Table Header 2</th>
-        <th>Table Header 3</th>
-    </tr>
-    <tr>
-        <td>Input 1 under header 1</td>
-        <td>Input 1 under header 2</td>
-        <td>Input 1 under header 3</td>
+        <td> characteristics</td>
+        <td>Behavior</td>
     </tr>
