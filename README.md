@@ -9,7 +9,7 @@
 <h3> Cat sense </h3>
 <p> They can hear sounds too faint or too high in frequency for human ears
   <br>They can see in near darkness</br>
-  <br>They have poorer color vision and a better sense of smell than humans.</br>
+  <br>They have poorer color vision and a better sense of smell than humans</br></p>
   <h2> History </h2>
   <p>Cats were venerated in ancient Egypt, but there may have been instances of domestication as early as the
 Neolithic from around 9,500 years ago (7500 BC). 
