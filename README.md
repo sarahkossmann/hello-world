@@ -7,9 +7,11 @@
     them from other felids and felines. They are often valued by humans for <b> companionship.</b></p>
     <p>There are more than seventy cat breeds recognized by various cat registries..</p>
 <h3> Cat sense </h3>
-<p> <br>They can hear sounds too faint or too high in frequency for human ears</br>
-  <br>They can see in near darkness</br>
-  <br>They have poorer color vision and a better sense of smell than humans</br></p>
+<ul>
+    <li>They can hear sounds too faint or too high in frequency for human ears</li>
+    <li>They can see in near darkness</li>
+    <li>They have poorer color vision and a better sense of smell than humans</li>
+</ul>
   <h2> History </h2>
   <p>Cats were venerated in ancient Egypt, but there may have been instances of domestication as early as the
 Neolithic from around 9,500 years ago (7500 BC). 
