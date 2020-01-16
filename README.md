@@ -10,7 +10,7 @@
 <p> They can hear sounds too faint or too high in frequency for human ears
   <br>They can see in near darkness</br>
   <br>They have poorer color vision and a better sense of smell than humans.</br>
-  <h2> History </2>
+  <h2> History </h2>
   <p>Cats were venerated in ancient Egypt, but there may have been instances of domestication as early as the
 Neolithic from around 9,500 years ago (7500 BC). 
   <br>Did you know that, The felids are a rapidly evolving family of mammals that includes:</br>
