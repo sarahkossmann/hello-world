@@ -6,4 +6,14 @@
 <p>They are often called <i>house cats</i> when kept as indoor pets or simply cats when there is no need to distinguish
     them from other felids and felines. They are often valued by humans for <b> companionship.</b></p>
     <p>There are more than seventy cat breeds recognized by various cat registries..</p>
-<h3 Cat sense </h3>
+<h3> Cat sense </h3>
+<p> They can hear sounds too faint or too high in frequency for human ears
+  <br>They can see in near darkness</br>
+  <br>They have poorer color vision and a better sense of smell than humans.</br>
+  <h2> History </2>
+  <p>Cats were venerated in ancient Egypt, but there may have been instances of domestication as early as the
+Neolithic from around 9,500 years ago (7500 BC). 
+  <br>Did you know that, The felids are a rapidly evolving family of mammals that includes:</br>
+  <br> I.Lions</br>
+  <br> II.Tigers</br>
+  <br III.Cougars</br></p>
