@@ -19,7 +19,7 @@ Neolithic from around 9,500 years ago (7500 BC).
   <br> III.Cougars</br></p>
 <h2> Media</h2>
 <img src="https://thumbs-prod.si-cdn.com/FfPjZYS33IDPV7CIe6TxkP6hBLo=/800x600/filters:no_upscale()/https://public-media.smithsonianmag.com/filer/cat-with-yarn631.jpg" alt="a cata>
-<h1> id="bottom">The Lions</h1>  
+<h1> The Lions</h1>  
 <p>Present in Africa and India, the lion typically inhabits grasslands and savannahs, but is absent in dense forests.
 It is usually more diurnal than other big cats, but when persecuted adapts to being active at night and at
 twilight. A lion pride consists of a few adult males, related females and cubs. Prides vary in size and
